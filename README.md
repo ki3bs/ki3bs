@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ki3bs
+- 👋 Hi, I’m Kim
 - 👀 Mom learning how to code :D
 - 🌱 Starting a bootcamp in Oct21 so thought i'd start with something light for now. Maybe Html5 & CSS? Ultimately wanna end up in Rust. But in the meantime maybe JavaScript or Python :D
 - 💞️ I’m looking to collaborate on Html5 & CSS
